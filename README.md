@@ -1,2 +1,2 @@
-# Python-basics-kinter-projects
+# Python-basics-tkinter-projects
 Interesting project to solidify learning python and tkinter
